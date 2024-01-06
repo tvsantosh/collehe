@@ -1,4 +1,4 @@
 # collehe
 these is my first git repositary
 <br>
-author-santosh
+author-santosh(apan collge)
